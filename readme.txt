@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick.
 It's better to use utf-8.
-
+Creating a new branch is quick and simple.
